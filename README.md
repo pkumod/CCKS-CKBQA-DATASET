@@ -11,6 +11,8 @@ CCKS 2020: https://www.biendata.xyz/competition/ccks_2020_7_4/
 
 CCKS 2021: https://www.biendata.xyz/competition/ccks_2021_ckbqa/
 
+CCKS 2023: https://tianchi.aliyun.com/competition/entrance/532100
+
 ... and there will be more!
 
 The datasets consists of benchmark queries set and an open-domain knowledge graph. 
