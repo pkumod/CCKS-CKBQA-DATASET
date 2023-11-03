@@ -11,6 +11,8 @@ CCKS 2020: https://www.biendata.xyz/competition/ccks_2020_7_4/
 
 CCKS 2021: https://www.biendata.xyz/competition/ccks_2021_ckbqa/
 
+CCKS 2022: https://www.biendata.net/competition/ccks2020_ckbqa/
+
 CCKS 2023: https://tianchi.aliyun.com/competition/entrance/532100
 
 ... and there will be more!
